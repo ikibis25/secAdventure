@@ -1,0 +1,173 @@
+@media (max-width: 1400px){
+	.snow_content{right:20px;}
+}
+@media (max-width: 1300px){
+	.ad_cloudbanner{padding:300px 0px;}
+	.snow_man{left:12px;}
+	.ad_slider .caption_position{width:42%;}
+}
+@media (max-width: 1270px){
+	.ad_mostvisited.ad_bottompadder80{padding-bottom:60px;}
+	.mostvisited_section .owl-nav{text-align:center; padding:20px 0;}
+	.mostvisited_section .owl-nav .owl-prev,
+	.mostvisited_section .owl-nav .owl-next{position:initial;margin:0 10px;}
+}
+@media (max-width: 1200px){
+	.ad_slider .caption p{font-size:22px;}
+	.activity_section h3{font-size:16px;}
+	.activity_section p{margin-bottom:20px; font-size:14px;}
+	.activity_section .ad_button{margin-bottom:20px;}
+	.activity_img{margin-top:80px;}
+	.snow_content h1{font-size:46px;}
+	.list-group-item .mostvisited_content{padding:9px;}
+	.ad_cloudbanner{padding:300px 0px;}
+	.ad_slider .caption_position{width:50%;}
+}
+
+@media (min-width:992px) and (max-width:1199px){
+	.ad_slider .caption h1{font-size:65px;}
+	.blog_section .blog_img{margin-bottom:24px;}
+	.about_shape1{width:230px; height:230px; margin-top:70px;}
+	.about_border{width:230px; height:230px;}
+	.submenu .sub_li ul li{padding:0px !important;}
+}
+
+@media(max-width:991px){
+	.logo1{display: block; float: left; padding-top: 10px;}
+	.temp_menu {
+		float: left;
+		padding-left:20px;
+		position: fixed;
+		left: -250px;
+		height: 100%;
+		top: 0;
+		margin:0;
+		max-width: 250px;
+		background-color:rgb(48,49,50);
+		transition:all 0.3s ease-in;
+		-webkit-transition:all 0.3s ease-in;
+		-moz-transition:all 0.3s ease-in;
+		-o-transition:all 0.3s ease-in;
+		-ms-transition:all 0.3s ease-in;
+		z-index:999;
+		overflow-x:hidden;
+	}
+	.dropdown{position:relative;}
+	.show-submenu i{display:block; color:#fff; float:left; margin-top:10px; position:initial;}
+	.temp_menu ul li:hover .submenu{display:none;}
+	.collapse.navbar-collapse.in .temp_menu{left:0;}
+	.temp_menu ul li{width: 100%;text-align: left;margin: 0;padding-bottom:0;}
+	.temp_menu ul li a:after , .temp_menu ul li a:before{display:none;} 
+	.submenu{background:#6c7a89;}
+	.submenu .sub_li{width:100%;}
+	.submenu .sub_li:after{display:none;}
+	.navbar-toggle{display:block; margin: 20px 0px;}
+	.logo{display:none;}
+	.ad_slider .caption h1{font-size:52px;}
+	.activity_section{margin-top:50px; text-align:center; padding:0 10px;}
+	.timer_heading h1{text-align:center;}
+	.timer_bottom{text-align:center;}
+	.ad_contactForm{text-align:center;}
+	.footer_section.section2{margin-bottom:50px;}
+	.about_section{margin-top:100px;text-align:center;}
+	.about_shape1{margin-top:50px;}
+	.blogSingle_right{padding-bottom:50px;}
+	.info_section.info2:after{display:none;}
+	.form_section{margin-bottom:50px;}
+	.list-group-item .mostvisited_content p{font-size:14px; height:170px; overflow:hidden;}
+	.ad_header.menu_fixed{display:none;}
+	.ad_slider .caption_position{width:66%;}
+	.footer_media ul li a{width:50px; height:50px;margin-right:30px;}
+	.footer_media ul li a i{line-height:50px; font-size:20px;}
+}
+
+@media (min-width:768px) and (max-width: 991px){
+	.blog_section .blog_img{margin-bottom:16px;}
+	.blog_caption p{font-size:15px;}
+
+}
+
+@media (max-width:767px){
+	p{font-size:14px;}
+	.timer_heading h1{font-size:32px;}
+	.ad_blog{text-align:center;}
+	.blog_section{width:auto; display:inline-block; margin-bottom:30px;}
+	.blog_section .blog_img{margin-bottom:0;}
+	.ad_blog.ad_bottompadder80{padding-bottom:50px;}
+	.ad_footer{text-align:center;}
+	.footer_section{width:auto; display:inline-block;}
+	.footer_section ul{text-align:left;}
+	.footer_section.section1 , .footer_section.section3{margin-bottom:50px;}
+	.info_section{padding:0;}
+	.info_section.info1:after{display:none;}
+	#products .item{text-align:center;}
+	.thumbnail{width:70%; display:inline-block;}
+	.item.list-group-item .mostvisited_img{margin-right:0;}
+	.thumbnail .mostvisited_img img{width:100%;}
+	.item.list-group-item .mostvisited_img{float:none;}
+	.ad_travel{text-align:center;}
+	.dropdown_s{width:70%; display:inline-block;}
+	.dropdown_s dt a span{text-align:left;}
+	.ad_slider .caption_position{width:100%;}
+	.footer_section.section1{padding-right:0;}
+}
+
+@media (max-width:667px){
+}
+
+@media (max-width:600px){
+	.ad_team{text-align:center;}
+	.team_slider .item{width:80%; display:inline-block;}
+	.team_img .ad_caption ul li:before{left:-44px; width:38px;}
+	.team_img .ad_caption ul li:hover:before{width:44px;}
+	.ad_footer.ad_bottompadder80{padding-bottom:60px;}
+	.footer_media ul li a{margin-bottom:20px;}
+	.testimonial_slider .owl-nav{display:none;}
+}
+
+@media (max-width:578px){
+	.blog_right .col-lg-6{width:100%;}
+	.blog_right{text-align:center;}
+}
+
+@media (max-width:479px){
+	.blog_caption p{font-size:16px;}
+	.about_shape1 , .about_border{width:200px; height:200px;}
+	.comment_img_shape{width:70px; height:70px;}
+	.comment_content p span{float:none; width:100%;}
+	.comment_content{width:calc(100% - 120px);}
+	.comment_list .children li{margin-left:30px;}
+	.thumbnail{width:100%;}
+	.list-group-item .mostvisited_content h1 span{width:100px;}
+	.subscribe_section .form-control{width:100%;}
+	.subscribe_section .ad_button{float:none; margin-top:20px;}
+	.snow_man{display:none;}
+	.snow_content h1{font-size:30px;}
+	.ad_slider .dropdown_s{width:170px;}
+	.ad_slider .dropdown_s.dropdown_sh{width:160px;}
+	.ad_slider .dropdown_s dt a{font-size:12px;}
+	.activity_img .col-xs-6{width:100%;}
+	.blog_section .blog_caption{padding:10px 20px;}
+}
+
+@media (max-width:375px){
+	.team_img .ad_caption{top:55%;}
+	.blog_caption p{font-size:14px;}
+	.blog_caption ul li a{font-size:14px;}
+	.activity_img_section .ad_caption p{font-size:16px;}
+	.about_border{top:-12px; right:-12px;}
+	.ad_slider .caption{text-align:center;}
+	.ad_slider .dropdown_s{display:inline-block; margin-right:0; margin-bottom:0;}
+	.ad_slider .caption h1{font-size:40px;}
+	.ad_slider .caption p{font-size:18px; padding:20px 0;}
+	.team_img .ad_caption ul li a{width:40px; height:40px; margin-bottom:22px;}
+	.team_img .ad_caption ul li a i{line-height:40px;}
+	.team_img .ad_caption ul li:before{top:19px;}
+}
+
+@media (max-width:320px){
+
+}
+
+@media (max-width:240px){
+}
